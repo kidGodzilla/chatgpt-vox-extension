@@ -4,7 +4,7 @@ A simple extension to enable voice interactions in OpenAI's ChatGPT:
 
 https://chat.openai.com/
 
-<!-- ![Gif](demo.gif) -->
+![Gif](demo.gif)
 
 ## Instructions
 
