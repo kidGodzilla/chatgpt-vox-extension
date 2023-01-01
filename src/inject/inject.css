@@ -1,0 +1,16 @@
+/**
+ * Felt cute, might add custom CSS later
+ **/
+
+.__countdown_timer {
+  position: absolute;
+    right: 3px;
+    top: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*height: 32px;
+  width: 32px;*/
+  font-family: sans-serif;
+  cursor: pointer;
+}
